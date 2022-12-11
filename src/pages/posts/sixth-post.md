@@ -118,7 +118,8 @@ Some text to show that the reference links can follow later.
 Images included in _\_posts_ folder are lazy loaded.
 
 Inline-style:
-![alt text](/src/images/random.jpeg 'Logo Title Text 1')
+<!-- ![alt text](/public/assets/images/image-post6.jpeg 'Logo Title Text 1') -->
+<!-- <img src="/src/images/random.jpeg" alt="A starry night sky."> -->
 
 ## Table
 
